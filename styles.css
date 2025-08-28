@@ -16,7 +16,7 @@ body {
 
 header {
   background: linear-gradient(135deg, #E6E6FA, #4B0082);
-  color: linear-gradient(135deg, #E6E6FA, #4B0082)
+  color: linear-gradient(135deg, #E6E6FA, #4B0082);
   padding: 1rem;
   display: flex;
   justify-content: space-between;
@@ -55,7 +55,7 @@ main {
 
 footer {
   background: #333;
-  color: white;
+  color: linear-gradient(135deg, #E6E6FA, #4B0082);
   text-align: center;
   padding: 1rem;
   margin-top: auto;
